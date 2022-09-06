@@ -26,3 +26,10 @@
 ### Sandrome: 
 
 
+# Print Instructions 
+
+For best results, print the following pieces in resin: 
+
+- Crystal Coat Chain 
+- Coat Crystal with Loop 
+- Character specific pieces 
