@@ -5,6 +5,8 @@ Information base for 3D printing fatui winter cloak accessories
 
 [Print Instructions](https://github.com/daniellelshen/FatuiCloak/blob/main/Specifications.md#print-instructions)
 
+Credits are listed on the wiki. 
+
 Terms & Conditions for FatuiWinterCloak Repo: 
 
 This repo is for personal use only. 
