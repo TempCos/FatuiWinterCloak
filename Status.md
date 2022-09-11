@@ -4,7 +4,7 @@ making the files union + correct size listed
 
 | File name |	Status | Notes | 
 | --------- | -------- | ------------ | 
-| Fatui Symbol | WIP	|  | 
+| Fatui Symbol | Need checked	| [STL](https://github.com/TempCos/FatuiWinterCloak/blob/main/ds%20files/fatui%20symbol%20loop_Merge.stl) | 
 | Coat Button	| WIP |  |
 | Coat Crystal Chain Single | completed	| [STL](https://github.com/TempCos/FatuiWinterCloak/blob/main/ds%20files/coat%20crytal%20chain%20single.stl) |
 | Coat Crystal with Loop	| WIP |  | 
