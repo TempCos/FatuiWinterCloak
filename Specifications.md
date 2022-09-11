@@ -33,3 +33,13 @@ For best results, print the following pieces in resin:
 - Crystal Coat Chain 
 - Coat Crystal with Loop 
 - Character specific pieces 
+
+| File name |	3mf | STL | 
+| --------- | -------- | ------------ | 
+| Fatui Symbol | 	| STL | 
+| Coat Button	|  | STL |
+| Coat Crystal Chain Single | [3mf](https://github.com/TempCos/FatuiWinterCloak/blob/main/ds%20files/coat%20crytal%20chain%20single.3mf)	| [STL](https://github.com/TempCos/FatuiWinterCloak/blob/main/ds%20files/coat%20crytal%20chain%20single.stl) |
+| Coat Crystal with Loop	|  | STL | 
+| Right side of coat lapel | 	| STL |  
+| Left side of coat lapel |	 |	STL |  
+| Fatui Symbol Button |	 | STL |
