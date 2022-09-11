@@ -1,6 +1,8 @@
 # FatuiCloak
 Information base for 3D printing fatui winter cloak accessories 
 
+[Home Page & Credits](https://github.com/TempCos/FatuiWinterCloak/wiki)
+
 [Getting started](https://github.com/TempCos/FatuiWinterCloak/blob/main/Specifications.md#information-on-the-files-quantity-and-sizes)
 
 [Print Instructions](https://github.com/TempCos/FatuiWinterCloak/blob/main/Specifications.md#print-instructions)
