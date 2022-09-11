@@ -22,5 +22,5 @@ Template for table:
 | Coat Crystal Chain Single | WIP	| |
 | Coat Crystal with Loop	| WIP |  | 
 | Right side of coat lapel | WIP	| |  
-| Left side of coat lapel |	WIP |	3 |  | 
+| Left side of coat lapel |	WIP |  | 
 | Fatui Symbol Button |	WIP | |
