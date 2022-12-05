@@ -27,8 +27,11 @@
 | Diamond Ring	| 1 | tbd in | tbh mm |	
 | Pendant Holder	| 1 | tbd in | tbh mm |	
 | Pendant Jewel	| 1 | tbd in | tbh mm |	
-| Neck Piece Set	| 3 | tbd in | tbh mm |	
-| Neck Bottom Point	| 1 | tbd in | tbh mm |	
+| Neck bottom piece		| 1 | tbd in | tbh mm |	
+| Neck second piece	| 1 | tbd in | tbh mm |	
+| Neck thirds piece	| 1 | tbd in | tbh mm |	
+| Neck top piece | 1 | tbd in | tbh mm |	
+| Pantalone display pieces| 1 | tbd in | tbh mm |	
 | Eye Glass Dangle | 2 | tbd in | tbh mm |	
 
 ### Sandrome: 
