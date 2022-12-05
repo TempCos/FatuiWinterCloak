@@ -7,10 +7,10 @@
 | Fatui Symbol | 1	|5 Inch Diameter |127 mm Diameter| 
 | Coat Button	|3 | 4 Inches in Length | 101.6 mm in length |
 | Coat Crystal Chain Single* | 3	| 1.75 Inches in Length | 44.45 mm in length |
-| Coat Crystal with Loop	| 1 | tbd in | tbh mm |	
+| Coat Crystal with Loop	| 1 | 4 inches in length | tbh mm |	
 | Right side of coat lapel | 2	| 3 inches in length| tbh in mm |  
 | Left side of coat lapel |	2 |	3 inches in length | tbh in mm | 
-| Fatui Symbol Button |	6 | tbh inch | tbh mm | 
+| Fatui Symbol Button |	6 | 7/8 inch | 23 mm | 
 
 *you will need jump rings to attach all the pieces together. 
 
@@ -21,7 +21,15 @@
 ### Childe: 
 
 ### Pantalone: 
-
+| File name |	Quantity | Dimension in | Dimensions mm |
+| --------- | -------- | ------------ | ------------- |
+| Petal Ring	| 1 | tbd in | tbh mm |	
+| Diamond Ring	| 1 | tbd in | tbh mm |	
+| Pendant Holder	| 1 | tbd in | tbh mm |	
+| Pendant Jewel	| 1 | tbd in | tbh mm |	
+| Neck Piece Set	| 3 | tbd in | tbh mm |	
+| Neck Bottom Point	| 1 | tbd in | tbh mm |	
+| Eye Glass Dangle | 2 | tbd in | tbh mm |	
 
 ### Sandrome: 
 
