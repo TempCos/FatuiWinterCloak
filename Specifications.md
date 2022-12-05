@@ -10,7 +10,7 @@
 | Coat Crystal with Loop	| 1 | 4 inches in length | 44.45 mm in length  |	
 | Right side of coat lapel | 2	| 3 inches in length| 76.2 mm in length |  
 | Left side of coat lapel |	2 |	3 inches in length | 76.2 mm in length | 
-| Fatui Symbol Button |	6 | 7/8 inch | 23 mm | 
+| Fatui Symbol Button |	6 | 7/8 inch diameter | 23 mm diameter | 
 
 *you will need jump rings to attach all the pieces together. 
 
