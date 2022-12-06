@@ -1,5 +1,7 @@
 # Information on the files, quantity and sizes 
 
+![image](https://user-images.githubusercontent.com/112983396/206048696-85205d4f-9221-410a-bb39-b0d4b075f056.png)
+
 ## Base Kit: 
 
 | File name |	Quantity | Dimension in | Dimensions mm |
