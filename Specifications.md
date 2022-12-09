@@ -1,6 +1,5 @@
 # Information on the files, quantity and sizes 
-
-![image](https://user-images.githubusercontent.com/112983396/206048696-85205d4f-9221-410a-bb39-b0d4b075f056.png)
+<img src="https://user-images.githubusercontent.com/112983396/206048696-85205d4f-9221-410a-bb39-b0d4b075f056.png" width=50% height=50%>
 
 ## Base Kit: 
 
@@ -23,6 +22,9 @@
 ### Childe: 
 
 ### Pantalone: 
+<img src="https://user-images.githubusercontent.com/112983396/206800268-d658fbb3-79cd-481f-96aa-abe82d2dd6ca.png" width=20% height=20%>
+
+
 | File name |	Quantity | Dimension in | Dimensions mm |
 | --------- | -------- | ------------ | ------------- |
 | Petal Ring	| 1 | tbd in | tbh mm |	
