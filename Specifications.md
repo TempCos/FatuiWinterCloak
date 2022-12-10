@@ -31,12 +31,26 @@
 | Diamond Ring	| 1 | 3/4 in length | tbh mm |	
 | Pendant Holder	| 1 | 4.5 in length | 67 mm in length, 56 mm in width |	
 | Pendant Jewel	| 1 | tbd in | 55 mm in length, 35 in width |	
-| Neck bottom piece		| 1 | tbd in | tbh mm |	
-| Neck second piece	| 1 | tbd in | tbh mm |	
-| Neck thirds piece	| 1 | tbd in | tbh mm |	
-| Neck top piece | 1 | tbd in | tbh mm |	
-| Pantalone display pieces| 1 | tbd in | tbh mm |	
-| Eye Glass Dangle | 2 | tbd in | tbh mm |	
+| Neck bottom piece		| 1 | tbd in | 58 mm in length, 77 mm in width |	
+| Neck second piece	| 2 total - 1 regular and 1 mirrored | tbd in | 40 x 33 mm |	
+| Neck thirds piece	| 2 total - 1 regular and 1 mirrored | tbd in | 35 x 25 mm mm |	
+| Neck top piece | 2 total - 1 regular and 1 mirrored | tbd in | 45 x 55 mm |	
+| Eye Glass Dangle | 2 | 1.5 in in length | tbh mm |	
+
+
+Pantalone display pieces file is an example of all the pieces laid out (not to scale). 
+
+Neck second piece: 
+
+<img src="https://user-images.githubusercontent.com/112983396/206878264-85c60f9f-c640-4180-acb5-51de39fe8adb.png" width=30% height=30%>
+
+Neck third piece: 
+
+<img src="https://user-images.githubusercontent.com/112983396/206878342-954c2d71-1128-4acc-8a60-05d6f0a41d95.png" width=30% height=30%>
+
+Neck top piece: 
+
+<img src="https://user-images.githubusercontent.com/112983396/206878421-5f0277e9-cfd7-4ffb-b95d-ed9be2592996.png" width=30% height=30%>
 
 ### Sandrome: 
 
