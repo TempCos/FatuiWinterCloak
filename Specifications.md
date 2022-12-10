@@ -27,9 +27,9 @@
 
 | File name |	Quantity | Dimension in | Dimensions mm |
 | --------- | -------- | ------------ | ------------- |
-| Petal Ring	| 1 | tbd in | tbh mm |	
-| Diamond Ring	| 1 | tbd in | tbh mm |	
-| Pendant Holder	| 1 | tbd in | tbh mm |	
+| Petal Ring	| 1 | 10/16 in across | tbh mm |	
+| Diamond Ring	| 1 | 3/4 in length | tbh mm |	
+| Pendant Holder	| 1 | 4.5 in length | tbh mm |	
 | Pendant Jewel	| 1 | tbd in | tbh mm |	
 | Neck bottom piece		| 1 | tbd in | tbh mm |	
 | Neck second piece	| 1 | tbd in | tbh mm |	
