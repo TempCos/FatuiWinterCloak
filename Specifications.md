@@ -5,12 +5,12 @@
 
 | File name |	Quantity | Dimension in | Dimensions mm |
 | --------- | -------- | ------------ | ------------- |
-| Fatui Symbol | 1	|5 Inch Diameter |127 mm Diameter| 
+| Fatui Symbol | 1	| 4 Inch Diameter |101.6 mm Diameter| 
 | Coat Button	|3 | 4 Inches in Length | 101.6 mm in length |
-| Coat Crystal Chain Single* | 3	| 1.75 Inches in Length | 44.45 mm in length |
-| Coat Crystal with Loop	| 1 | 4 inches in length | 44.45 mm in length  |	
+| Coat Crystal Chain Single* | 3 | 1.75 Inches in Length | 44.45 mm in length |
+| Coat Crystal with Loop | 1 | 4 inches in length | 101.6 mm in length  |	
 | Right side of coat lapel | 2	| 3 inches in length| 76.2 mm in length |  
-| Left side of coat lapel |	2 |	3 inches in length | 76.2 mm in length | 
+| Left side of coat lapel | 2 |	3 inches in length | 76.2 mm in length | 
 | Fatui Symbol Button |	6 | 7/8 inch diameter | 23 mm diameter | 
 
 *you will need jump rings to attach all the pieces together. 
